@@ -21,7 +21,7 @@ No notebook está o código de tudo descrito no overview, com os modelos e suas 
 
 ## Conjunto de dados
 
- Data Dictionary
+ Data Dictionary - https://www.kaggle.com/competitions/titanic/data
  
 Variable       Definition	                                   Key
 
